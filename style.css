@@ -49,6 +49,7 @@ input {
   outline: none;
   box-sizing: border-box;
   transition: all 0.3s;
+  font-family: Sen, sans-serif;
 }
 
 input:valid {
